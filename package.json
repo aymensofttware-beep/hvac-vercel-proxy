@@ -1,0 +1,8 @@
+{
+  "name": "hvac-vercel-proxy",
+  "version": "1.0.0",
+  "description": "Vercel serverless proxy for the HVAC missed-call AI demo bot",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
